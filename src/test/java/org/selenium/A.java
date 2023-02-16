@@ -42,6 +42,19 @@ public class A {
 		System.out.println("Vinay");
 
 	}
+	private void date() {
+		// TODO Auto-generated method stub
+
+	}
+	private void day() {
+		// TODO Auto-generated method stub
+
+	}
+	private void month() {
+		// TODO Auto-generated method stub
+
+	}
+	
 
 	
 }
