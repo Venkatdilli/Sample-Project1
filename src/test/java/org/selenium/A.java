@@ -26,6 +26,14 @@ public class A {
 		
 		
 	}
+	public void mom() {
+		System.out.println("Vignesh");
+
+	}
+	public void dad() {
+		System.out.println("Vignesh");
+
+	}
 
 	
 }
