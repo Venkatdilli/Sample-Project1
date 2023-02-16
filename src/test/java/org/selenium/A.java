@@ -42,6 +42,18 @@ public class A {
 		System.out.println("Vinay");
 
 	}
+	private void state() {
+		// TODO Auto-generated method stub
+
+	}
+	private void city() {
+		// TODO Auto-generated method stub
+
+	}
+	private void country() {
+		// TODO Auto-generated method stub
+
+	}
 
 	
 }
