@@ -34,6 +34,14 @@ public class A {
 		System.out.println("Vignesh");
 
 	}
+	public void vignesh() {
+		System.out.println("Vicky");
+
+	}
+	public void vicky() {
+		System.out.println("Vinay");
+
+	}
 
 	
 }
