@@ -42,6 +42,7 @@ public class A {
 		System.out.println("Vinay");
 
 	}
+
 	private void state() {
 		// TODO Auto-generated method stub
 
@@ -54,6 +55,20 @@ public class A {
 		// TODO Auto-generated method stub
 
 	}
+	private void date() {
+		// TODO Auto-generated method stub
+
+	}
+	private void day() {
+		// TODO Auto-generated method stub
+
+	}
+	private void month() {
+		// TODO Auto-generated method stub
+
+	}
+	
+
 
 	
 }
